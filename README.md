@@ -1,9 +1,5 @@
 # Banana Leaf Restaurant 🍲
 
-**Live Demo** : http://bananaleaf.samankgupta.co/
-
-[<img src="images/readmeimage.png" alt="Banana Leaf">](http://bananaleaf.samankgupta.co/)
-
 ## Abstract
 
 Banana leaf restaurant website is made to give customers a nice experience and easy to
